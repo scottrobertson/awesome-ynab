@@ -16,6 +16,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Multi Currency](https://ynab-multi-currency.herokuapp.com/) Lets you budget with multiple currencies in a single budget. 
 
+- [Undebt.it](https://undebt.it/) An online debt snowball/avalanche planner with direct YNAB syncronization. 
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
