@@ -4,6 +4,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 ### Projects
 
+- [Toolkit for YNAB](https://github.com/toolkit-for-ynab/toolkit-for-ynab) Toolkit for YNAB is a browser extension that enhances your experience with the YNAB Web Application.
+
 - [Fintech to YNAB](https://github.com/fintech-to-ynab/fintech-to-ynab) Automatically push transactions into YNAB from Monzo, Starling and 12 other banks.
 
 - [Allowance for YNAB](https://itunes.apple.com/us/app/allowance-for-ynab/id1422989571) Allowance for YNAB is a companion app to the You Need a Budget service that allows you to select the categories you are most interested in and display them in places where you can, at a glance, see your available balances and make better spending decisions.
