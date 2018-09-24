@@ -15,6 +15,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 - [Beyond Rule 4](https://beyondrule4.jmmorrissey.com/home) turns your YNAB data into a chart that shows how far along you are in your journey to financial independence.
 
 - [Multi Currency](https://ynab-multi-currency.herokuapp.com/) Lets you budget with multiple currencies in a single budget. 
+- [YNAB Balance Shortcut](https://www.reddit.com/r/shortcuts/comments/9htwei/have_siri_tell_you_a_ynab_budget_category_balance/?st=JMDZFO4P&sh=1fbb993a) - Have Siri tell you a YNAB budget category balance
 
 ### Submit a Project
 
