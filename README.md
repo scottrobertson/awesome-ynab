@@ -18,6 +18,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB Balance Shortcut](https://www.reddit.com/r/shortcuts/comments/9htwei/have_siri_tell_you_a_ynab_budget_category_balance/?st=JMDZFO4P&sh=1fbb993a) - Have Siri tell you a YNAB budget category balance
 
+- [YNAB - Privacy.com Linker](https://ynab-privacy.herokuapp.com) This app allows you to auto-import transactions made with a Privacy.com virtual card to a specific YNAB budget / category.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
