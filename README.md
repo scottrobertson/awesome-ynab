@@ -22,6 +22,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB - Privacy.com Linker](https://ynab-privacy.herokuapp.com) This app allows you to auto-import transactions made with a Privacy.com virtual card to a specific YNAB budget / category.
 
+- [Sync for YNAB](https://syncforynab.com) Connecting YNAB to UK Banks
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
