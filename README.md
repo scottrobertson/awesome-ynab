@@ -24,6 +24,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Sync for YNAB](https://syncforynab.com) Connecting YNAB to UK Banks
 
+- [Automated Serverless Stock Updates](https://github.com/MatissJanis/sls-ynab-stock-updates) Serverless function to track and automatically update stock investment account balance in YNAB.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
