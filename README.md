@@ -24,6 +24,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Sync for YNAB](https://syncforynab.com) Connecting YNAB to UK Banks
 
+- [Command line interface for YNAB](https://borsboom.io/cli-for-ynab/) Easy access to all parts of the YNAB API from your terminal
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
