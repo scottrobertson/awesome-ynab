@@ -26,6 +26,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Automated Serverless Stock Updates](https://github.com/MatissJanis/sls-ynab-stock-updates) Serverless function to track and automatically update stock investment account balance in YNAB.
 
+- [Command line interface for YNAB](https://borsboom.io/cli-for-ynab/) Easy access to all parts of the YNAB API from your terminal
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
