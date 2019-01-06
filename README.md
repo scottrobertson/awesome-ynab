@@ -28,6 +28,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Command line interface for YNAB](https://borsboom.io/cli-for-ynab/) Easy access to all parts of the YNAB API from your terminal
 
+- [SMS Alerts](https://github.com/ljb2of3/ynab-sms) Notify others when transactions have been added to YNAB
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
