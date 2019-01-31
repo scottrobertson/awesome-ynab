@@ -30,6 +30,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [SMS Alerts](https://github.com/ljb2of3/ynab-sms) Notify others when transactions have been added to YNAB
 
+- [Sheets For YNAB](https://www.kajiba.io/docs/sheets-for-ynab/) Import your YNAB data to Google Sheets
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
