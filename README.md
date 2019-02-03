@@ -32,6 +32,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [ynab-a-day](https://github.com/troylar/ynab-a-day) A simple and customizable YNAB daily report for your significant other who doesn't care about budgeting, but whom you care about keeping informed.
 
+- [Sheets For YNAB](https://www.kajiba.io/docs/sheets-for-ynab/) Import your YNAB data to Google Sheets
 
 ### Submit a Project
 
