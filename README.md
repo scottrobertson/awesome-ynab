@@ -30,6 +30,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [SMS Alerts](https://github.com/ljb2of3/ynab-sms) Notify others when transactions have been added to YNAB
 
+- [ynab-a-day](https://github.com/troylar/ynab-a-day) A simple and customizable YNAB daily report for your significant other who doesn't care about budgeting, but whom you care about keeping informed.
+
 - [Sheets For YNAB](https://www.kajiba.io/docs/sheets-for-ynab/) Import your YNAB data to Google Sheets
 
 ### Submit a Project
