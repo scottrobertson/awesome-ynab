@@ -34,6 +34,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Sheets For YNAB](https://www.kajiba.io/docs/sheets-for-ynab/) Import your YNAB data to Google Sheets
 
+- [You Need A Parser](https://ynap.leolabs.org) Convert CSV files from a variety of (German, for now) banks and apps into a format that can easily be imported into You Need A Budget. YNAP is free and open-source and your files never leave your browser.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
