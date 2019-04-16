@@ -36,6 +36,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [You Need A Parser](https://ynap.leolabs.org) Convert CSV files from a variety of (German, for now) banks and apps into a format that can easily be imported into You Need A Budget. YNAP is free and open-source and your files never leave your browser.
 
+- [GoodBudget to YNAB](https://github.com/jordancrawfordnz/goodbudget-to-ynab) Import your GoodBudget transactions into YNAB using the YNAB API.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
