@@ -40,6 +40,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [GoodBudget to YNAB](https://github.com/jordancrawfordnz/goodbudget-to-ynab) Import your GoodBudget transactions into YNAB using the YNAB API.
 
+- [MoneyMoney2YNAB](https://github.com/krachtstefan/moneymoney2ynab) Export your bank transactions from [MoneyMoney](https://moneymoney-app.com/) for easy YNAB import.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
