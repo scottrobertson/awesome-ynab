@@ -42,6 +42,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [MoneyMoney2YNAB](https://github.com/krachtstefan/moneymoney2ynab) Export your bank transactions from [MoneyMoney](https://moneymoney-app.com/) for easy YNAB import.
 
+- [ynab-bank-importer](https://github.com/schurig/ynab-bank-importer) Pull transactions from your bank and import them to YNAB automatically.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
