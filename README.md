@@ -44,6 +44,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [ynab-bank-importer](https://github.com/schurig/ynab-bank-importer) Pull transactions from your bank and import them to YNAB automatically.
 
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) "Firefly III" is a (self-hosted) manager for your personal finances. You can also import from bunq, from YNAB, using FinTS or simply by uploading CSV files.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
