@@ -46,6 +46,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [firefly-iii](https://github.com/firefly-iii/firefly-iii) "Firefly III" is a (self-hosted) manager for your personal finances. You can also import from bunq, from YNAB, using FinTS or simply by uploading CSV files.
 
+- [SMS to YNAB](https://github.com/akashpjames/sms-import-for-ynab) Android app which parses bank messages that can then be synced with YNAB. Helpful for those who are not able to use the auto import feature from YNAB.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
