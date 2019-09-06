@@ -48,6 +48,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [SMS to YNAB](https://github.com/akashpjames/sms-import-for-ynab) Android app which parses bank messages that can then be synced with YNAB. Helpful for those who are not able to use the auto import feature from YNAB.
 
+- [Quota for YNAB](https://play.google.com/store/apps/details?id=com.ynabquota.starter) Quota for YNAB is a helper android app for those who are using YNAB. Users can configure the categories and they can check the available balance in them quickly.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
