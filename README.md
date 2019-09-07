@@ -50,6 +50,10 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Quota for YNAB](https://play.google.com/store/apps/details?id=com.ynabquota.starter) Quota for YNAB is a helper android app for those who are using YNAB. Users can configure the categories and they can check the available balance in them quickly.
 
+- [Budget or Your Life for YNAB](https://www.budgetoryourlife.com/) A tool that converts your YNAB budget from standard currency to life energy spent in hours as outlined in the book "Your Money or Your Life".
+
+- [YNAB SDK for .net core]( https://github.com/jaboc83/ynab-sdk-dotnetcore) An SDK for .net core to interact with the YNAB Rest API.
+
 ### Submit a Project
 
 To submit a project, please either create an issue, or submit a pull request.
