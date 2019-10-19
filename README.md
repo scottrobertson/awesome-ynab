@@ -54,7 +54,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB SDK for .net core]( https://github.com/jaboc83/ynab-sdk-dotnetcore) An SDK for .net core to interact with the YNAB Rest API.
 
-- [bunq2ynab](https://github.com/wesselt/bunq2ynab) Python script to import transactions from bunq bank to YNAB.  Supports listening to messages from bunq so your payments show in in YNAB seconds after you pay.
+- [bunq2ynab](https://github.com/wesselt/bunq2ynab) Python script to import transactions from bunq bank to YNAB.  Supports listening to messages from bunq so your payments show up in YNAB seconds after you pay.
 
 ### Submit a Project
 
