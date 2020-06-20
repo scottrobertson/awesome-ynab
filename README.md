@@ -60,7 +60,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [N26-to-YNAB](https://github.com/ivallesp/N26-to-YNAB) Minimalistic automated system for linking N26 accounts to YNAB, all through their APIs
 
-- [YNAB-reporter] (https://github.com/ivallesp/YNAB-reporter) YNAB default reports are just too simple. YNAB-reporter provides you a framework to generate your own automated reports. By default it's configured to generate a monthly report for your assets.
+- [YNAB-reporter](https://github.com/ivallesp/YNAB-reporter) YNAB default reports are just too simple. YNAB-reporter provides you a framework to generate your own automated reports. By default it's configured to generate a monthly report for your assets.
 
 ### Submit a Project
 
