@@ -60,6 +60,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB-reporter](https://github.com/ivallesp/YNAB-reporter) YNAB default reports are just too simple. YNAB-reporter provides you a framework to generate your own automated reports. By default it's configured to generate a monthly report for your assets.
 
+- [YNAB Buddy](https://github.com/nielsmaerten/ynab-buddy) Import (csv) files from *any*(!) bank directly into your YNAB Budget. 
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
