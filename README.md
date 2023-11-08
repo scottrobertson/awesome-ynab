@@ -60,6 +60,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB Buddy](https://github.com/nielsmaerten/ynab-buddy) Import (csv) files from *any*(!) bank directly into your YNAB Budget. 
 
+- [Amazon YNAB Sync](https://github.com/GraysonCAdams/amazon-ynab-sync) A mailbox watcher that automatically updates YNAB Amazon.com transaction memos with the Amazon item names
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
