@@ -24,6 +24,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Sync for YNAB](https://syncforynab.com) Connecting YNAB to UK Banks
 
+- [AMEX YNAB Import](https://github.com/GraysonCAdams/amex-ynab-import) This tool lets you import all transactions from American Express with just one command, saving you 5-10 minutes a day.
+
 - [Automated Serverless Stock Updates](https://github.com/MatissJanis/sls-ynab-stock-updates) Serverless function to track and automatically update stock investment account balance in YNAB.
 
 - [Command line interface for YNAB](https://borsboom.io/cli-for-ynab/) Easy access to all parts of the YNAB API from your terminal
