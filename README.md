@@ -56,6 +56,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [bunq2ynab](https://github.com/wesselt/bunq2ynab) Python script to import transactions from bunq bank to YNAB.  Supports listening to messages from bunq so your payments show up in YNAB seconds after you pay.
 
+- [bunqtoynab](https://github.com/bad33ndj3/awesome-ynab.git) Go script to import transactions from bunq bank to YNAB. Includes support for joint accounts. Used as a CLI.
+
 - [N26-to-YNAB](https://github.com/ivallesp/N26-to-YNAB) Minimalistic automated system for linking N26 accounts to YNAB, all through their APIs
 
 - [YNAB-reporter](https://github.com/ivallesp/YNAB-reporter) YNAB default reports are just too simple. YNAB-reporter provides you a framework to generate your own automated reports. By default it's configured to generate a monthly report for your assets.
@@ -63,6 +65,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 - [YNAB Buddy](https://github.com/nielsmaerten/ynab-buddy) Import (csv) files from *any*(!) bank directly into your YNAB Budget. 
 
 - [Amazon YNAB Sync](https://github.com/GraysonCAdams/amazon-ynab-sync) A mailbox watcher that automatically updates YNAB Amazon.com transaction memos with the Amazon item names
+
 
 ### Submit a Project
 
