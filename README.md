@@ -36,6 +36,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [bank2ynab](https://github.com/bank2ynab/bank2ynab#bank2ynab) Automatically detects your export CSV format and converts it into a YNAB CSV file. 50+ banks already supported. This project consolidates many other projects into a standardized approach.
 
+- [bunq2ynab-go](https://github.com/bad33ndj3/bunq2ynab) Go script to import transactions from bunq bank to YNAB. Includes support for joint accounts. Used as a CLI.
+
 - [You Need A Parser](https://ynap.leolabs.org) Convert CSV files from a variety of (German, for now) banks and apps into a format that can easily be imported into You Need A Budget. YNAP is free and open-source and your files never leave your browser.
 
 - [You Need a Mint](https://github.com/snowskeleton/ynam) Import Apple Card transactions in real time; no waiting for monthly statements!
