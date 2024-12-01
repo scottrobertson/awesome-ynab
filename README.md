@@ -38,6 +38,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [You Need A Parser](https://ynap.leolabs.org) Convert CSV files from a variety of (German, for now) banks and apps into a format that can easily be imported into You Need A Budget. YNAP is free and open-source and your files never leave your browser.
 
+- [Trading212 YNAB](https://github.com/samdenty/ynab-trading212-sync) Auto synchronizes your Trading212 account with a YNAB account using cloudflare worker, fetches current stock prices to give you uncleared transactions representing the unrealized value of your portfolio
+
 - [You Need a Mint](https://github.com/snowskeleton/ynam) Import Apple Card transactions in real time; no waiting for monthly statements!
 
 - [GoodBudget to YNAB](https://github.com/jordancrawfordnz/goodbudget-to-ynab) Import your GoodBudget transactions into YNAB using the YNAB API.
@@ -65,6 +67,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 - [YNAB Buddy](https://github.com/nielsmaerten/ynab-buddy) Import (csv) files from *any*(!) bank directly into your YNAB Budget. 
 
 - [Amazon YNAB Sync](https://github.com/GraysonCAdams/amazon-ynab-sync) A mailbox watcher that automatically updates YNAB Amazon.com transaction memos with the Amazon item names
+
+- [Amazon Gappscript YNAB Sync](https://github.com/samdenty/ynab-amazon-gappscript-sync) Auto splits YNAB transactions into itemized breakdowns with memos of product names. Uses gappscript which can run in the cloud on gmail servers.
 
 ### Submit a Project
 
