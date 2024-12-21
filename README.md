@@ -48,8 +48,6 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [ynab-bank-importer](https://github.com/schurig/ynab-bank-importer) Pull transactions from your bank and import them to YNAB automatically.
 
-- [firefly-iii](https://github.com/firefly-iii/firefly-iii) "Firefly III" is a (self-hosted) manager for your personal finances. You can also import from bunq, from YNAB, using FinTS or simply by uploading CSV files.
-
 - [SMS to YNAB](https://github.com/akashpjames/sms-import-for-ynab) Android app which parses bank messages that can then be synced with YNAB. Helpful for those who are not able to use the auto import feature from YNAB.
 
 - [Quota for YNAB](https://play.google.com/store/apps/details?id=com.ynabquota.starter) Quota for YNAB is a helper android app for those who are using YNAB. Users can configure the categories and they can check the available balance in them quickly.
@@ -69,6 +67,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 - [Amazon YNAB Sync](https://github.com/GraysonCAdams/amazon-ynab-sync) A mailbox watcher that automatically updates YNAB Amazon.com transaction memos with the Amazon item names
 
 - [Amazon Gappscript YNAB Sync](https://github.com/samdenty/ynab-amazon-gappscript-sync) Auto splits YNAB transactions into itemized breakdowns with memos of product names. Uses gappscript which can run in the cloud on gmail servers.
+
+- [GoCardless to Ynab Sync (Azure Hosted)](https://github.com/NikolaInvernizzi/GoCardlessToYnabSync) A low cost (~8 cents/month) Azure hosted Sync between GoCardless(Free, 2,500+ banks) and YNAB using Azure Functions written in .NET/C# and CosmosDB. (May require some technical knownledge to host or edit the code to fit the transaction it receives from your bank)
 
 ### Submit a Project
 
