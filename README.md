@@ -70,6 +70,12 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [GoCardless to Ynab Sync (Azure Hosted)](https://github.com/NikolaInvernizzi/GoCardlessToYnabSync) A low cost (~8 cents/month) Azure hosted Sync between GoCardless(Free, 2,500+ banks) and YNAB using Azure Functions written in .NET/C# and CosmosDB. (May require some technical knownledge to host or edit the code to fit the transaction it receives from your bank)
 
+- [Autonabber](https://github.com/jrh3k5/autonabber) A tool used to automate disbursement of a paycheck across budget categories using a YAML configuration file.
+
+- [Cryptonabber Sync](https://github.com/jrh3k5/cryptonabber-sync) A tool used to automate the synchronization of cryptocurrency accounts with YNAB accounts.
+
+- [Cryptonabber Offramp](https://github.com/jrh3k5/cryptonabber-offramp) A tool used to automate the tracking of converting cryptocurrencies from accounts into fiat accounts
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
