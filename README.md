@@ -76,6 +76,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Cryptonabber Offramp](https://github.com/jrh3k5/cryptonabber-offramp) A tool used to automate the tracking of converting cryptocurrencies from accounts into fiat accounts
 
+- [Splitwise for YNAB](https://www.splitwiseforynab.com) Sync shared expenses with your partner between YNAB and Splitwise
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
