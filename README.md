@@ -78,6 +78,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Splitwise for YNAB](https://www.splitwiseforynab.com) Sync shared expenses with your partner between YNAB and Splitwise
 
+- [Categorization Budget Helper](https://github.com/plmrph/budget-helper) a local, open-source app that speeds up YNAB transaction review. It batch-syncs with YNAB, can search your email for relevant emails, and uses a locally trained ML model to learn patterns (e.g., same payee ≠ same category depending on amount or day).
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
