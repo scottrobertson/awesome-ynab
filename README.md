@@ -80,6 +80,9 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Categorization Budget Helper](https://github.com/plmrph/budget-helper) a local, open-source app that speeds up YNAB transaction review. It batch-syncs with YNAB, can search your email for relevant emails, and uses a locally trained ML model to learn patterns (e.g., same payee ≠ same category depending on amount or day).
 
+- [YNAB HA (HACS)](https://github.com/DeLuca21/ynab-ha) Custom integration connecting YNAB with Home Assistant. Displays budgets, accounts, and categories as sensors, each with detailed attributes such as balances, spending, goals, and insights to help track financial health. Fully installable via HACS.
+
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
