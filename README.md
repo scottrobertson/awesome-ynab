@@ -82,6 +82,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB HA (HACS)](https://github.com/DeLuca21/ynab-ha) Custom integration connecting YNAB with Home Assistant. Displays budgets, accounts, and categories as sensors, each with detailed attributes such as balances, spending, goals, and insights to help track financial health. Fully installable via HACS.
 
+- [YNAB Weekly Wrap](https://github.com/SathyaBhat/ynab-weekly-wrap/) A weekly wrap up of You Need A Budget (YNAB) spends, showing all the categories that had spends and highlighting the categories that have spend over the budgeted amounts. Reports are sent via [Telegram API](https://telegram.org/)
 
 ### Submit a Project
 
