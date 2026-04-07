@@ -84,6 +84,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [YNAB Weekly Wrap](https://github.com/SathyaBhat/ynab-weekly-wrap/) A weekly wrap up of You Need A Budget (YNAB) spends, showing all the categories that had spends and highlighting the categories that have spend over the budgeted amounts. Reports are sent via [Telegram API](https://telegram.org/)
 
+- [Calendar for YNAB](https://calendarforynab.com) Turn your YNAB transactions into calendar events. Calendar for YNAB lets you see exactly what you spent and when, right alongside the rest of your life. Works in Apple Calendar, Google Calendar, Outlook, or any app that supports iCalendar subscriptions.
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
