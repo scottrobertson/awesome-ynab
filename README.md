@@ -86,6 +86,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Calendar for YNAB](https://calendarforynab.com) Turn your YNAB transactions into calendar events. Calendar for YNAB lets you see exactly what you spent and when, right alongside the rest of your life. Works in Apple Calendar, Google Calendar, Outlook, or any app that supports iCalendar subscriptions.
 
+- [SNAPT](https://usesnapt.com) AI-powered receipt scanner for YNAB. Send a photo of any receipt to the SNAPT Telegram bot and it extracts every line item, matches each one to your YNAB budget categories, and creates a split transaction — all in seconds. Supports natural language corrections (e.g. "move the vitamins to health"), auto-matches with existing bank imports to prevent duplicates, and works with multiple AI models for accurate categorization
+
 ### Submit a Project
 
 To submit a project, please submit a pull request.
