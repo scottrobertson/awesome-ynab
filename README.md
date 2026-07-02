@@ -52,8 +52,6 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Partner Split for YNAB](https://github.com/RelicCornhusk/partner-split-for-ynab) A background worker that automatically syncs shared credit card expenses to an IOU account in YNAB.
 
-- [Quota for YNAB](https://play.google.com/store/apps/details?id=com.ynabquota.starter) Quota for YNAB is a helper android app for those who are using YNAB. Users can configure the categories and they can check the available balance in them quickly.
-
 - [SMS Alerts](https://github.com/ljb2of3/ynab-sms) Notify others when transactions have been added to YNAB
 
 - [SMS to YNAB](https://github.com/akashpjames/sms-import-for-ynab) Android app which parses bank messages that can then be synced with YNAB. Helpful for those who are not able to use the auto import feature from YNAB.
@@ -69,8 +67,6 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 - [Trading212 YNAB](https://github.com/samdenty/ynab-trading212-sync) Auto synchronizes your Trading212 account with a YNAB account using cloudflare worker, fetches current stock prices to give you uncleared transactions representing the unrealized value of your portfolio
 
 - [Undebt.it](https://undebt.it/) An online debt snowball/avalanche planner with direct YNAB syncronization.
-
-- [YNAB - Privacy.com Linker](https://ynab-privacy.herokuapp.com) This app allows you to auto-import transactions made with a Privacy.com virtual card to a specific YNAB budget / category.
 
 - [YNAB Balance Shortcut](https://www.reddit.com/r/shortcuts/comments/9htwei/have_siri_tell_you_a_ynab_budget_category_balance/?st=JMDZFO4P&sh=1fbb993a) - Have Siri tell you a YNAB budget category balance
 
