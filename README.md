@@ -3,7 +3,8 @@
 A list of awesome YNAB projects. A lot of these projects use the YNAB API, and can be used to improve your YNAB experience.
 
 ### Projects
-
+- [Partner Split for YNAB](https://github.com/RelicCornhusk/partner-split-for-ynab) A background worker that automatically syncs shared credit card expenses to an IOU account in YNAB.
+  
 - [Cents for YNAB](https://apps.apple.com/us/app/cents-for-ynab/id1482995866?ls=1) iOS app to manage your budget and visualize your spending habits
 
 - [Toolkit for YNAB](https://github.com/toolkit-for-ynab/toolkit-for-ynab) Toolkit for YNAB is a browser extension that enhances your experience with the YNAB Web Application.
