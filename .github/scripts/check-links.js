@@ -26,13 +26,13 @@ const HEADERS = {
   Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 };
 
-async function request(url, method) {
+async function request(url, method, headers = HEADERS) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
   try {
     return await fetch(url, {
       method,
-      headers: HEADERS,
+      headers,
       redirect: "follow",
       signal: controller.signal,
     });
@@ -41,12 +41,41 @@ async function request(url, method) {
   }
 }
 
+// Pull owner/repo out of a github.com URL, ignoring paths that aren't repos.
+function githubRepo(url) {
+  const m = url.match(/^https?:\/\/github\.com\/([^/]+)\/([^/#?]+)/i);
+  if (!m) return null;
+  const owner = m[1];
+  const repo = m[2].replace(/\.git$/, "");
+  // These sit at the same path depth as a repo but aren't one.
+  const reserved = new Set(["sponsors", "topics", "features", "about", "marketplace", "orgs", "settings", "notifications"]);
+  if (reserved.has(owner.toLowerCase())) return null;
+  return { owner, repo };
+}
+
+// A 200 link tells us nothing about whether the repo is archived, so ask the API.
+async function checkArchived(url) {
+  const gh = githubRepo(url);
+  if (!gh) return false;
+  const headers = { "User-Agent": HEADERS["User-Agent"], Accept: "application/vnd.github+json" };
+  if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+  try {
+    const res = await request(`https://api.github.com/repos/${gh.owner}/${gh.repo}`, "GET", headers);
+    if (!res.ok) return false;
+    const data = await res.json();
+    return data.archived === true;
+  } catch {
+    return false;
+  }
+}
+
 async function check(url) {
   try {
     // HEAD is cheap, but plenty of servers don't support it, so fall back to GET.
     let res = await request(url, "HEAD");
     if (res.status >= 400) res = await request(url, "GET");
-    return { url, status: res.status };
+    const archived = await checkArchived(url);
+    return { url, status: res.status, archived };
   } catch (err) {
     return { url, status: err.cause?.code || err.name || String(err) };
   }
@@ -65,6 +94,7 @@ async function run() {
 
   const suspect = (r) => typeof r.status !== "number" || r.status >= 400;
   const flagged = results.filter(suspect);
+  const archived = results.filter((r) => r.archived);
   const ok = results.filter((r) => !suspect(r));
 
   if (flagged.length > 0) {
@@ -73,10 +103,16 @@ async function run() {
     console.log("");
   }
 
+  if (archived.length > 0) {
+    console.log("=== Archived GitHub repos ===");
+    for (const r of archived) console.log(`[archived] ${r.url}`);
+    console.log("");
+  }
+
   console.log(`=== OK (${ok.length}) ===`);
   for (const r of ok) console.log(`[${r.status}] ${r.url}`);
 
-  console.log(`\n${urls.length} links checked, ${flagged.length} need a look.`);
+  console.log(`\n${urls.length} links checked, ${flagged.length} need a look, ${archived.length} archived.`);
 }
 
 run();

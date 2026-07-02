@@ -15,3 +15,5 @@ jobs:
         with:
           node-version: 26
       - run: node .github/scripts/check-links.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
