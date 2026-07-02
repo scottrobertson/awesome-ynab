@@ -12,17 +12,11 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [AMEX YNAB Import](https://github.com/GraysonCAdams/amex-ynab-import) This tool lets you import all transactions from American Express with just one command, saving you 5-10 minutes a day.
 
-- [Automated Serverless Stock Updates](https://github.com/MatissJanis/sls-ynab-stock-updates) Serverless function to track and automatically update stock investment account balance in YNAB.
-
-- [Autonabber](https://github.com/jrh3k5/autonabber) A tool used to automate disbursement of a paycheck across budget categories using a YAML configuration file.
-
 - [bank2ynab](https://github.com/bank2ynab/bank2ynab#bank2ynab) Automatically detects your export CSV format and converts it into a YNAB CSV file. 50+ banks already supported. This project consolidates many other projects into a standardized approach.
 
 - [Beyond Rule 4](https://beyondrule4.jmmorrissey.com/home) turns your YNAB data into a chart that shows how far along you are in your journey to financial independence.
 
 - [bunq2ynab](https://github.com/wesselt/bunq2ynab) Python script to import transactions from bunq bank to YNAB.  Supports listening to messages from bunq so your payments show up in YNAB seconds after you pay.
-
-- [bunq2ynab-go](https://github.com/bad33ndj3/bunq2ynab) Go script to import transactions from bunq bank to YNAB. Includes support for joint accounts. Used as a CLI.
 
 - [Calendar for YNAB](https://calendarforynab.com) Turn your YNAB transactions into calendar events. Calendar for YNAB lets you see exactly what you spent and when, right alongside the rest of your life. Works in Apple Calendar, Google Calendar, Outlook, or any app that supports iCalendar subscriptions.
 
@@ -32,17 +26,15 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [Command line interface for YNAB](https://borsboom.io/cli-for-ynab/) Easy access to all parts of the YNAB API from your terminal
 
-- [Cryptonabber Offramp](https://github.com/jrh3k5/cryptonabber-offramp) A tool used to automate the tracking of converting cryptocurrencies from accounts into fiat accounts
+- [Cryptonabber Offramp](https://codeberg.org/jrh3k5/cryptonabber-offramp) A tool used to automate the tracking of converting cryptocurrencies from accounts into fiat accounts
 
-- [Cryptonabber Sync](https://github.com/jrh3k5/cryptonabber-sync) A tool used to automate the synchronization of cryptocurrency accounts with YNAB accounts.
+- [Cryptonabber Sync](https://codeberg.org/jrh3k5/cryptonabber-sync) A tool used to automate the synchronization of cryptocurrency accounts with YNAB accounts.
 
 - [Fintech to YNAB](https://github.com/fintech-to-ynab/fintech-to-ynab) Automatically push transactions into YNAB from Monzo, Starling and 12 other banks.
 
 - [Fintective](https://fintective.ai) Financial detective for YNAB that automatically finds duplicate charges, subscription price increases, unusual spending patterns, and other transactions worth investigating.
 
 - [GoCardless to Ynab Sync (Azure Hosted)](https://github.com/NikolaInvernizzi/GoCardlessToYnabSync) A low cost (~8 cents/month) Azure hosted Sync between GoCardless(Free, 2,500+ banks) and YNAB using Azure Functions written in .NET/C# and CosmosDB. (May require some technical knownledge to host or edit the code to fit the transaction it receives from your bank)
-
-- [GoodBudget to YNAB](https://github.com/jordancrawfordnz/goodbudget-to-ynab) Import your GoodBudget transactions into YNAB using the YNAB API.
 
 - [MoneyMoney2YNAB](https://github.com/krachtstefan/moneymoney2ynab) Export your bank transactions from [MoneyMoney](https://moneymoney-app.com/) for easy YNAB import.
 
@@ -80,11 +72,7 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [ynab-a-day](https://github.com/troylar/ynab-a-day) A simple and customizable YNAB daily report for your significant other who doesn't care about budgeting, but whom you care about keeping informed.
 
-- [ynab-bank-importer](https://github.com/schurig/ynab-bank-importer) Pull transactions from your bank and import them to YNAB automatically.
-
 - [YNAB-reporter](https://github.com/ivallesp/YNAB-reporter) YNAB default reports are just too simple. YNAB-reporter provides you a framework to generate your own automated reports. By default it's configured to generate a monthly report for your assets.
-
-- [You Need a Mint](https://github.com/snowskeleton/ynam) Import Apple Card transactions in real time; no waiting for monthly statements!
 
 - [You Need A Parser](https://ynap.leolabs.org) Convert CSV files from a variety of (German, for now) banks and apps into a format that can easily be imported into You Need A Budget. YNAP is free and open-source and your files never leave your browser.
 
