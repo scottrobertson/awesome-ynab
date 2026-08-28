@@ -36,6 +36,8 @@ A list of awesome YNAB projects. A lot of these projects use the YNAB API, and c
 
 - [GoCardless to Ynab Sync (Azure Hosted)](https://github.com/NikolaInvernizzi/GoCardlessToYnabSync) A low cost (~8 cents/month) Azure hosted Sync between GoCardless(Free, 2,500+ banks) and YNAB using Azure Functions written in .NET/C# and CosmosDB. (May require some technical knownledge to host or edit the code to fit the transaction it receives from your bank)
 
+- [MCP Server for YNAB](https://github.com/hs737/mcp-server-for-ynab) An MCP server that connects AI assistants (Claude, Codex, Cursor, VS Code and others) to your plan, so you can ask questions in plain language: how a month is going, what is overspent, which transactions still need a category, what your subscriptions cost a year. Read-only by default — the write tools are not registered at all unless you opt in — and every write records the state before it, so it can be undone.
+
 - [Moneylight](https://moneylight.app) A weekly cash flow forecast for YNAB. See your projected checking balance for the weeks ahead, catch low weeks before they happen, and plan around bills, paychecks, and credit card payments. Read-only, so it never changes anything in YNAB.
 
 - [MoneyMoney2YNAB](https://github.com/krachtstefan/moneymoney2ynab) Export your bank transactions from [MoneyMoney](https://moneymoney-app.com/) for easy YNAB import.
